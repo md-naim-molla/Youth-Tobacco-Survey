@@ -1,0 +1,743 @@
+                                                               GYTSSEARO2004 India All Schools                                                              1
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+     Q1         INR1      Tobacco can be smoked as cigarette, bidi, cigar, chutta, dhumti, or it can be smoked in hukka, chilum,                           
+                          pipe etc.  It can be chewed as gutka, pan masala, betel-quid, khaini, mawa, zarda, or applied as                                 
+                          mishri, gul, bajjar, snuff, tobacco toothpaste, tobacco tooth powder etc.  Have you ever tried or                                
+                          experimented with any such form of tobacco, even once or twice?                                                                  
+                          .   Missing                                                                                                      7          .    
+                          1   Yes                                                                                                        327        19.2%  
+                          2   No                                                                                                       1,303        80.8%  
+                                                                                                                                                           
+     Q2         INR2      How old were you when you first tried tobacco in any form?                                                                       
+                          .   Missing                                                                                                      3          .    
+                          1   I have never tried any tobacco                                                                           1,299        80.3%  
+                          2   7 years old or younger                                                                                      27         1.8%  
+                          3   8 or 9 years old                                                                                            34         2.2%  
+                          4   10 or 11 years old                                                                                         189        10.8%  
+                          5   12 or 13 years old                                                                                          66         3.8%  
+                          6   14 or 15 years old                                                                                          13         0.7%  
+                          7   16 years old or older                                                                                        6         0.4%  
+                                                                                                                                                           
+     Q3         INR3      During the past 30 days, did you smoke tobacco in any form?  (SELECT ONLY ONE RESPONSE)                                          
+                          .   Missing                                                                                                      9          .    
+                          1   I did not smoke tobacco in any form                                                                      1,577        96.7%  
+                          2   I mainly smoked bidis                                                                                       11         0.7%  
+                          3   I mainly smoked cigarettes                                                                                   6         0.3%  
+                          4   I smoked tobacco in other forms                                                                             29         1.9%  
+                          5   I smoked tobacco in multiple forms                                                                           5         0.3%  
+                                                                                                                                                           
+     Q4         INR4      During the past 30 days, did you chew tobacco in any form?  (SELECT ONLY ONE RESPONSE)                                           
+                          .   Missing                                                                                                     25          .    
+                          1   I did not chew tobacco in any form                                                                       1,291        80.8%  
+                          2   I chewed pan masala, gutka or zarda                                                                        253        14.9%  
+                          3   I chewed pan  with tobacco or tobacco-lime-supari mixtures                                                   9         0.6%  
+                          4   I chewed tobacco-lime mixture without supari                                                                 2         0.1%  
+                          5   I chewed tobacco alone                                                                                       8         0.5%  
+                          6   I chewed tobacco in multiple or other forms                                                                  5         0.3%  
+                          7   I chewed pan, pan masala or supari without any tobacco                                                      44         2.7%  
+                                                                                                                                                           
+     Q5         INR5      During the past 30 days, did you apply tobacco in any form?  (SELECT ONLY ONE RESPONSE) (require pre                             
+                          testing for "apply")                                                                                                             
+                          .   Missing                                                                                                      4          .    
+                          1   I did not apply tobacco in any form                                                                      1,592        97.4%  
+                          2   I applied mishri                                                                                            21         1.4%  
+                          3   I applied snuff or bajjar or tapkir                                                                          3         0.2%  
+                          4   I applied tobacco toothpaste (e.g. Ipco or Dentobac)                                                         6         0.4%  
+                          5   I applied tobacco toothpowder (e.g. Lal dantamanjan)                                                         7         0.4%  
+                          6   I applied tobacco in multiple or other forms                                                                 4         0.2%  
+                                                                                                                                                           
+     Q6         INR6      During the past 30 days (one month), on how many days did you smoke tobacco in any form?                                         
+                          .   Missing                                                                                                     13          .    
+                          1   0 days                                                                                                   1,546        95.0%  
+                          2   1 or 2 days                                                                                                 45         2.9%  
+                          3   3 to 5 days                                                                                                 11         0.7%  
+                          4   6 to 9 days                                                                                                  9         0.6%  
+                          5   10 to 19 days                                                                                                6         0.4%  
+                          6   20 to 29 days                                                                                                3         0.2%  
+                          7   All 30 days                                                                                                  4         0.2%  
+                                                               GYTSSEARO2004 India All Schools                                                              2
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                                                                                                                                                           
+    Q7         INR7       During the past 30 days (one month), on how many days did you chew or apply tobacco in any form?                                 
+                          .   Missing                                                                                                      2          .    
+                          1   0 days                                                                                                   1,347        83.3%  
+                          2   1 or 2 days                                                                                                 36         2.2%  
+                          3   3 to 5 days                                                                                                 19         1.2%  
+                          4   6 to 9 days                                                                                                  7         0.5%  
+                          5   10 to 19 days                                                                                              223        12.6%  
+                          6   20 to 29 days                                                                                                1         0.1%  
+                          7   All 30 days                                                                                                  2         0.1%  
+                                                                                                                                                           
+    Q8         CR4        During the past 30 days (one month), on the days you smoked, how many cigarettes did you usually smoke?                          
+                          .   Missing                                                                                                      4          .    
+                          1   I did not smoke cigarettes during the past 30 days (one month)                                           1,607        98.3%  
+                          2   Less than 1 cigarette per day                                                                               22         1.5%  
+                          3   1 cigarette per day                                                                                          3         0.1%  
+                          4   2 to 5 cigarettes per day                                                                                    1         0.1%  
+                          5   6 to 10 cigarettes per day                                                                                   .         0.0%  
+                          6   11 to 20 cigarettes per day                                                                                  .         0.0%  
+                          7   More than 20 cigarettes per day                                                                              .         0.0%  
+                                                                                                                                                           
+    Q9         INR9       During the past 30 days (one month), on the days you smoked, how many bidis did you usually smoke?                               
+                          .   Missing                                                                                                      3          .    
+                          1   I did not smoke bidis during the past 30 days (one month)                                                1,610        98.5%  
+                          2   Less than 1 bidi per day                                                                                    21         1.3%  
+                          3   1 bidi per day                                                                                               3         0.2%  
+                          4   2 to 5 bidis per day                                                                                         .         0.0%  
+                          5   6 to 10 bidis per day                                                                                        .         0.0%  
+                          6   11 to 20 bidis per day                                                                                       .         0.0%  
+                          7   More than 20 bidis per day                                                                                   .         0.0%  
+                                                                                                                                                           
+    Q10        INR10      During the past 30 days (one month), how did you usually get your bidi, cigarette or other tobacco?                              
+                          (SELECT ONLY ONE RESPONSE)                                                                                                       
+                          .   Missing                                                                                                      2          .    
+                          1   I did not smoke or use any tobacco during the past 30 days (one month)                                   1,339        82.7%  
+                          2   I bought them in a store, shop or from a street vendor                                                     275        16.0%  
+                          3   It was available at home                                                                                    10         0.5%  
+                          4   I gave someone else money to buy them for me                                                                 1         0.1%  
+                          5   I borrowed them from someone else                                                                            4         0.3%  
+                          6   I picked it from somewhere                                                                                   .         0.0%  
+                          7   An older person gave them to me                                                                              2         0.1%  
+                          8   I got them in some other way                                                                                 4         0.3%  
+                                                                                                                                                           
+    Q11        INR11      During the past 30 days (one month), what brand of cigarette did you usually smoke? (SELECT ONLY ONE                             
+                          RESPONSE)                                                                                                                        
+                          .   Missing                                                                                                      4          .    
+                          1   I did not smoke cigarette during the past 30 days                                                        1,605        98.2%  
+                          2   No usual brand                                                                                              18         1.2%  
+                          3   Wills                                                                                                        2         0.2%  
+                          4   Gold Flake                                                                                                   2         0.1%  
+                          5   Bristol                                                                                                      6         0.4%  
+                          6   Charms                                                                                                       .         0.0%  
+                          7   Charminar                                                                                                    .         0.0%  
+                          8   Other                                                                                                        .         0.0%  
+                                                                                                                                                           
+                                                               GYTSSEARO2004 India All Schools                                                              3
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+    Q12        INR12      During the past 30 days (one month), what brand of bidis did you usually smoke? (SELECT ONLY ONE                                 
+                          RESPONSE)                                                                                                                        
+                          .   Missing                                                                                                      7          .    
+                          1   I did not smoke bidis during the past 30 days                                                            1,602        98.2%  
+                          2   No usual brand                                                                                              17         1.2%  
+                          3   Shivaji bidi                                                                                                 .         0.0%  
+                          4   Prakash bidi                                                                                                10         0.6%  
+                          5   Bharat bidi                                                                                                  .         0.0%  
+                          6   Ganesh bidi                                                                                                  .         0.0%  
+                          7   Raj bidi                                                                                                     .         0.0%  
+                          8   Other                                                                                                        1         0.1%  
+                                                                                                                                                           
+    Q13        INR13      During the past 30 days (one month), what brand of gutka or pan masala did you usually chew? (SELECT                             
+                          ONLY ONE RESPONSE)                                                                                                               
+                          .   Missing                                                                                                      3          .    
+                          1   I did not chew gutka or pan masala during the past 30 days                                               1,326        81.8%  
+                          2   No usual brand                                                                                              29         2.0%  
+                          3   Manikchand                                                                                                  20         1.3%  
+                          4   Moolchand                                                                                                    1         0.1%  
+                          5   Goa                                                                                                          5         0.3%  
+                          6   Paan Parag                                                                                                  27         1.7%  
+                          7   Sikander                                                                                                   224        12.7%  
+                          8   Other                                                                                                        2         0.1%  
+                                                                                                                                                           
+    Q14        INR14      How much do you usually pay for a pack of 20 cigarettes (or two packs of 10 each)?                                               
+                          .   Missing                                                                                                      4          .    
+                          1   I don’t smoke cigarette                                                                                  1,461        89.1%  
+                          2   I don't buy cigarette                                                                                      151         9.8%  
+                          3   I buy loose cigarettes                                                                                      16         0.9%  
+                          4   I pay less than Rs. 10 for pack of 10 cigarettes                                                             4         0.2%  
+                          5   I pay about Rs. 10 to Rs. 12 for pack of 10 cigarettes                                                       1         0.1%  
+                          6   I pay about Rs. 13 to Rs. 15 for pack of 10 cigarettes                                                       .         0.0%  
+                          7   I pay about Rs. 16 to Rs. 19 for pack of 10 cigarettes                                                       .         0.0%  
+                          8   I pay about Rs. 20 or more for pack of 10 cigarettes                                                         .         0.0%  
+                                                                                                                                                           
+    Q15        INR15      How much do you usually pay for a bundle of 25 bidis?                                                                            
+                          .   Missing                                                                                                     15          .    
+                          1   I don’t smoke bidi                                                                                       1,466        89.5%  
+                          2   I don't buy bidi, or I don’t buy them in bundles                                                           143         9.7%  
+                          3   I buy loose bidis                                                                                           11         0.7%  
+                          4   I pay less than Rs. 2 for pack of 25 bidis                                                                   1         0.1%  
+                          5   I pay about Rs. 2 to Rs. 3 for pack of 25 bidis                                                              .         0.0%  
+                          6   I pay more than Rs. 3 for pack of 25 bidis                                                                   1         0.0%  
+                                                                                                                                                           
+    Q16        INR16      How much do you usually pay for a pouch of gutka or pan masala?                                                                  
+                          .   Missing                                                                                                     10          .    
+                          1   I don't chew gutka or pan masala.                                                                        1,228        76.0%  
+                          2   I don’t buy gutka or pan masala                                                                            124         8.1%  
+                          3   I don't buy them in packs                                                                                    4         0.2%  
+                          4   I pay less than Rs. 1 for pouch of gutka or pan masala                                                      40         2.6%  
+                          5   I pay about Rs. 1 to Rs. 2 for pouch of gutka or pan masala                                                223        12.6%  
+                          6   I pay more than Rs. 2 for pouch of gutka or pan masala                                                       8         0.5%  
+                                                                                                                                                           
+    Q17        INR17      During the past 30 days (one month) how much do you think you spent on cigarettes?                                               
+                          .   Missing                                                                                                      6          .    
+                                                               GYTSSEARO2004 India All Schools                                                              4
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          1   I don’t smoke cigarette                                                                                  1,486        90.7%  
+                          2   I don't buy my cigarette                                                                                   129         8.3%  
+                          3   I spent less than Rs. 25                                                                                    11         0.7%  
+                          4   Between Rs. 25 to Rs. 50                                                                                     1         0.1%  
+                          5   Between Rs. 51 to Rs. 75                                                                                     2         0.1%  
+                          6   Between Rs. 76 to 100                                                                                        1         0.1%  
+                          7   More than Rs. 100                                                                                            1         0.1%  
+                                                                                                                                                           
+    Q18        INR18      During the past 30 days (one month) how much do you think you spent on bidis?                                                    
+                          .   Missing                                                                                                     11          .    
+                          1   I don't smoke bidis                                                                                      1,477        90.4%  
+                          2   I don’t buy my bidis                                                                                       140         9.1%  
+                          3   Less than Rs. 10                                                                                             9         0.5%  
+                          4   Between Rs. 10 to Rs. 15                                                                                     .         0.0%  
+                          5   Between Rs. 16 to Rs. 20                                                                                     .         0.0%  
+                          6   Between Rs. 21 to Rs. 25                                                                                     .         0.0%  
+                          7   More than Rs. 25                                                                                             .         0.0%  
+                                                                                                                                                           
+    Q19        INR19      During the past 30 days (one month) how much do you think you spent on chewing or applying tobacco                               
+                          including pan masala and gutka?                                                                                                  
+                          .   Missing                                                                                                      7          .    
+                          1   I don’t use tobacco.                                                                                     1,248        76.8%  
+                          2   I don’t buy my tobacco.                                                                                    122         8.1%  
+                          3   Less than Rs. 5                                                                                             34         2.2%  
+                          4   Between Rs. 5 and Rs. 10                                                                                     6         0.4%  
+                          5   Between Rs. 11 and Rs. 15                                                                                    1         0.1%  
+                          6   Between Rs. 16 and Rs. 20                                                                                    2         0.1%  
+                          7   More than Rs. 20                                                                                           217        12.2%  
+                                                                                                                                                           
+    Q20        INR20      In an usual month (30 days) how much pocket money do you get (including money you earn, if any)?                                 
+                          .   Missing                                                                                                     29          .    
+                          1   I don’t receive any pocket money (or have any income etc.)                                                 900        56.5%  
+                          2   I receive Less than Rs. 10                                                                                 273        17.2%  
+                          3   I receive Rs. 10-25                                                                                        128         8.5%  
+                          4   I receive Rs. 26-50                                                                                        202        11.5%  
+                          5   I receive Rs. 51-75                                                                                         63         3.8%  
+                          6   I receive Rs. 76-100                                                                                        34         2.1%  
+                          7   I receive more than Rs. 100                                                                                  8         0.5%  
+                                                                                                                                                           
+    Q21        CR10       During the past 30 days (one month), did anyone ever refuse to sell you cigarettes because of your age?                          
+                          .   Missing                                                                                                     15          .    
+                          1   I did not try to buy cigarettes during the past 30 days (one month)                                      1,558        96.0%  
+                          2   Yes, someone refused to sell me cigarettes because of my age                                                56         3.5%  
+                          3   No, my age did not prevent me from buying cigarettes                                                         8         0.5%  
+                                                                                                                                                           
+    Q22        INR22      During the past 30 days (one month), did anyone ever refuse to sell you bidi or any other tobacco                                
+                          product because of your age?                                                                                                     
+                          .   Missing                                                                                                      1          .    
+                          1   I did not try to buy bidi or any other tobacco product during the past 30 days (one month)               1,370        84.7%  
+                          2   Yes, someone refused to sell me bidi or some other tobacco product because of my age                        50         3.1%  
+                          3   No, my age did not prevent me from buying bidi or any other tobacco product                                216        12.2%  
+                                                                                                                                                           
+    Q23        INR23      Where do you usually smoke? (SELECT ONLY ONE RESPONSE)                                                                           
+                          .   Missing                                                                                                      4          .    
+                          1   I have never smoked                                                                                      1,544        94.4%  
+                                                               GYTSSEARO2004 India All Schools                                                              5
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          2   At home                                                                                                     32         2.0%  
+                          3   At school                                                                                                    2         0.1%  
+                          4   At work                                                                                                     15         0.9%  
+                          5   At friends' houses                                                                                           3         0.2%  
+                          6   At social events                                                                                            19         1.2%  
+                          7   In public spaces (e.g. parks, shops, street corners)                                                        10         0.7%  
+                          8   other                                                                                                        8         0.5%  
+                                                                                                                                                           
+    Q24        INR24      Where do you usually chew or apply tobacco? (SELECT ONLY ONE RESPONSE)                                                           
+                          .   Missing                                                                                                     21          .    
+                          1   I have never chewed or applied tobacco                                                                   1,327        83.0%  
+                          2   At home                                                                                                     36         2.4%  
+                          3   At school                                                                                                    4         0.2%  
+                          4   At friends' houses                                                                                          11         0.6%  
+                          5   At social events                                                                                             9         0.6%  
+                          6   In public spaces (e.g. parks, shops, street corners)                                                        12         0.7%  
+                          7   Other                                                                                                      217        12.4%  
+                                                                                                                                                           
+    Q25        INR25      Are you more likely to smoke after you have drunk alcohol or used another drug?                                                  
+                          .   Missing                                                                                                      5          .    
+                          1   I have never smoked                                                                                      1,572        96.2%  
+                          2   I no longer smoke                                                                                           36         2.3%  
+                          3   I smoke but never drink alcohol or use other drugs                                                          20         1.2%  
+                          4   No, I smoke less when I drink alcohol or use other drugs                                                     2         0.1%  
+                          5   Yes, I smoke more when I drink alcohol or use other drugs                                                    2         0.1%  
+                          6   I smoke about the same when I drink alcohol or use other drugs                                               .         0.0%  
+                                                                                                                                                           
+    Q26        INR26      Do you ever smoke or chew or feel like having a smoke or chew first thing in the morning?                                        
+                          .   Missing                                                                                                      6          .    
+                          1   I have never smoked                                                                                      1,317        81.4%  
+                          2   I no longer smoke                                                                                           43         2.8%  
+                          3   No, I don’t have or feel like having a smoke or chew first thing in the morning                             49         3.1%  
+                          4   Yes, I sometimes have or feel like having a smoke or chew first thing in the morning                        19         1.2%  
+                          5   Yes, I always have or feel like having or a smoke or chew first thing in the morning                       203        11.4%  
+                                                                                                                                                           
+    Q27        INR27      Do your parents smoke, chew or apply tobacco?                                                                                    
+                          .   Missing                                                                                                     18          .    
+                          1   None                                                                                                       874        55.2%  
+                          2   Both                                                                                                        46         2.9%  
+                          3   Father only                                                                                                675        40.3%  
+                          4   Mother only                                                                                                 13         0.9%  
+                          5   I don't know                                                                                                11         0.7%  
+                                                                                                                                                           
+    Q28        INR28      If one of your best friends offered you a cigarette or a bidi or chewing tobacco, would you take it?                             
+                          .   Missing                                                                                                      2          .    
+                          1   Definitely not                                                                                           1,347        83.2%  
+                          2   Probably not                                                                                                48         3.0%  
+                          3   Probably yes                                                                                               224        12.7%  
+                          4   Definitely yes                                                                                              16         1.1%  
+                                                                                                                                                           
+    Q29        INR29      Has anyone in your family discussed the harmful effects of smoking or chewing tobacco with you?                                  
+                          .   Missing                                                                                                     11          .    
+                          1   Yes                                                                                                      1,298        79.2%  
+                          2   No                                                                                                         328        20.8%  
+                                                                                                                                                           
+                                                               GYTSSEARO2004 India All Schools                                                              6
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+    Q30        INR30      At any time during the next 12 months do you think you will smoke a cigarette or a bidi or chew a                                
+                          tobacco product?                                                                                                                 
+                          .   Missing                                                                                                     11          .    
+                          1   Definitely not                                                                                           1,316        81.7%  
+                          2   Probably not                                                                                                65         4.4%  
+                          3   Probably yes                                                                                               239        13.7%  
+                          4   Definitely yes                                                                                               6         0.3%  
+                                                                                                                                                           
+    Q31        INR31      Do you think you will be smoking cigarettes or bidis or chewing a tobacco product 5 years from now?                              
+                          .   Missing                                                                                                      4          .    
+                          1   Definitely not                                                                                           1,314        81.5%  
+                          2   Probably not                                                                                                79         4.9%  
+                          3   Probably yes                                                                                               232        13.2%  
+                          4   Definitely yes                                                                                               8         0.5%  
+                                                                                                                                                           
+    Q32        INR32      Once someone has started smoking or chewing tobacco, do you think it would be difficult to stop ?                                
+                          .   Missing                                                                                                     19          .    
+                          1   Definitely not                                                                                             895        54.5%  
+                          2   Probably not                                                                                               105         6.4%  
+                          3   Probably yes                                                                                               120         8.0%  
+                          4   Definitely yes                                                                                             498        31.1%  
+                                                                                                                                                           
+    Q33        INR33      Do you think boys who smoke or chew tobacco have more friends or less friends?                                                   
+                          .   Missing                                                                                                     31          .    
+                          1   More friends                                                                                               627        37.9%  
+                          2   Less friends                                                                                               808        51.1%  
+                          3   No difference from non-smokers                                                                             171        11.0%  
+                                                                                                                                                           
+    Q34        INR34      Do you think girls who smoke or chew tobacco have more friends or less friends?                                                  
+                          .   Missing                                                                                                     10          .    
+                          1   More friends                                                                                               470        27.7%  
+                          2   Less friends                                                                                               989        61.5%  
+                          3   No difference from non-smokers                                                                             168        10.8%  
+                                                                                                                                                           
+    Q35        INR35      Does smoking or chewing tobacco help people feel more comfortable or less comfortable at celebrations,                           
+                          parties, or in other social gatherings?                                                                                          
+                          .   Missing                                                                                                      9          .    
+                          1   More comfortable                                                                                           472        28.4%  
+                          2   Less comfortable                                                                                           900        56.3%  
+                          3   No difference from non-smokers                                                                             256        15.4%  
+                                                                                                                                                           
+    Q36        INR36      Do you think smoking or chewing tobacco makes boys look more attractive or less attractive?                                      
+                          .   Missing                                                                                                     23          .    
+                          1   More attractive                                                                                            518        32.0%  
+                          2   Less attractive                                                                                            887        55.4%  
+                          3   No difference from non-smokers                                                                             209        12.5%  
+                                                                                                                                                           
+    Q37        INR37      Do you think smoking or chewing tobacco makes girls look more attractive or less attractive?                                     
+                          .   Missing                                                                                                      6          .    
+                          1   More attractive                                                                                            474        28.9%  
+                          2   Less attractive                                                                                            962        59.4%  
+                          3   No difference from non-smokers                                                                             195        11.7%  
+                                                                                                                                                           
+    Q38        INR38      Do you think that smoking makes you gain or lose weight?                                                                         
+                          .   Missing                                                                                                      9          .    
+                                                               GYTSSEARO2004 India All Schools                                                              7
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          1   Gain weight                                                                                                134         8.8%  
+                          2   Lose weight                                                                                              1,114        69.3%  
+                          3   No difference                                                                                              380        21.9%  
+                                                                                                                                                           
+    Q39        INR39      Do you think chewing tobacco helps in some ways like relieving toothache, morning motion etc.?                                   
+                          .   Missing                                                                                                     20          .    
+                          1   Some help                                                                                                  405        24.4%  
+                          2   No help                                                                                                  1,069        66.4%  
+                          3   No difference                                                                                              143         9.2%  
+                                                                                                                                                           
+    Q40        INR40      Do you think smoking is harmful to your health?                                                                                  
+                          .   Missing                                                                                                     10          .    
+                          1   Definitely not                                                                                             251        16.2%  
+                          2   Probably not                                                                                                59         3.6%  
+                          3   Probably yes                                                                                               300        17.6%  
+                          4   Definitely yes                                                                                           1,017        62.6%  
+                                                                                                                                                           
+    Q41        INR41      Do you think chewing or applying tobacco is harmful to your health?                                                              
+                          .   Missing                                                                                                     20          .    
+                          1   Definitely not                                                                                             263        17.4%  
+                          2   Probably not                                                                                                80         5.2%  
+                          3   Probably yes                                                                                               289        17.2%  
+                          4   Definitely yes                                                                                             985        60.2%  
+                                                                                                                                                           
+    Q42        INR42      Do any of your closest friends smoke?                                                                                            
+                          .   Missing                                                                                                     16          .    
+                          1   None of them                                                                                             1,093        68.9%  
+                          2   Some of them                                                                                               451        26.6%  
+                          3   Most of them                                                                                                64         3.8%  
+                          4   All of them                                                                                                 13         0.8%  
+                                                                                                                                                           
+    Q43        INR43      Do any of your closest friends chew or apply tobacco?                                                                            
+                          .   Missing                                                                                                      7          .    
+                          1   None of them                                                                                             1,128        70.7%  
+                          2   Some of them                                                                                               223        13.4%  
+                          3   Most of them                                                                                               264        15.1%  
+                          4   All of them                                                                                                 15         0.9%  
+                                                                                                                                                           
+    Q44        INR44      When you see a man smoking what do you think of him? (SELECT ONLY ONE RESPONSE) ( Require pre testing                            
+                          for 3 -ve and 3 +ve attitude)                                                                                                    
+                          .   Missing                                                                                                      6          .    
+                          1   Lacks confidence                                                                                           394        24.9%  
+                          2   Stupid                                                                                                     786        48.5%  
+                          3   Loser                                                                                                      180        11.1%  
+                          4   Successful                                                                                                 137         7.8%  
+                          5   Intelligent                                                                                                 91         5.3%  
+                          6   Macho                                                                                                       43         2.5%  
+                                                                                                                                                           
+    Q45        INR45      When you see a woman smoking, what do you think of her? (SELECT ONLY ONE RESPONSE) (Require pre                                  
+                          testing for 3 -ve and 3 +ve attitude)                                                                                            
+                          .   Missing                                                                                                     21          .    
+                          1   Lacks confidence                                                                                           396        24.9%  
+                          2   Stupid                                                                                                     764        47.7%  
+                          3   Loser                                                                                                      164        10.3%  
+                          4   Successful                                                                                                 136         7.7%  
+                                                               GYTSSEARO2004 India All Schools                                                              8
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          5   Intelligent                                                                                                 94         5.5%  
+                          6   Sophisticated                                                                                               62         3.8%  
+                                                                                                                                                           
+    Q46        INR46      Do you think it is safe to smoke for only a year or two as long as you stop after that?                                          
+                          .   Missing                                                                                                     15          .    
+                          1   Definitely not                                                                                             766        47.0%  
+                          2   Probably not                                                                                                91         5.7%  
+                          3   Probably yes                                                                                               318        18.6%  
+                          4   Definitely yes                                                                                             447        28.7%  
+                                                                                                                                                           
+    Q47        INR47      Do you think it is safe to chew or apply tobacco for only a year or two as long as you stop after that?                          
+                          .   Missing                                                                                                     16          .    
+                          1   Definitely not                                                                                             934        56.5%  
+                          2   Probably not                                                                                                94         5.8%  
+                          3   Probably yes                                                                                               133         8.3%  
+                          4   Definitely yes                                                                                             460        29.4%  
+                                                                                                                                                           
+    Q48        INR48      Do you think the smoke from other people's cigarettes or bidis is harmful to you?                                                
+                          .   Missing                                                                                                     36          .    
+                          1   Definitely not                                                                                             382        22.6%  
+                          2   Probably not                                                                                                59         3.7%  
+                          3   Probably yes                                                                                                75         4.7%  
+                          4   Definitely yes                                                                                           1,085        69.0%  
+                                                                                                                                                           
+    Q49        CR32       During the past 7 days, on how many days have people smoked in your home, in your presence?                                      
+                          .   Missing                                                                                                     10          .    
+                          1   zero                                                                                                     1,276        78.0%  
+                          2   1 to 2                                                                                                     105         6.6%  
+                          3   3 to 4                                                                                                      26         1.7%  
+                          4   5 to 6                                                                                                      79         4.9%  
+                          5   seven                                                                                                      141         8.9%  
+                                                                                                                                                           
+    Q50        CR33       During the past 7 days, on how many days have people smoked  in your presence, in places other than in                           
+                          your home?                                                                                                                       
+                          .   Missing                                                                                                     12          .    
+                          1   zero                                                                                                     1,086        66.6%  
+                          2   1 to 2                                                                                                     163        10.0%  
+                          3   3 to 4                                                                                                      63         3.8%  
+                          4   5 to 6                                                                                                      84         5.4%  
+                          5   seven                                                                                                      229        14.2%  
+                                                                                                                                                           
+    Q51        CR34       Are you in favor of banning smoking in public places (such as in restaurants, in buses, , and trains,                            
+                          in schools, on playgrounds, in gyms and sports stadiums, in discos etc.)?                                                        
+                          .   Missing                                                                                                     31          .    
+                          1   Yes                                                                                                      1,417        87.5%  
+                          2   No                                                                                                         189        12.5%  
+                                                                                                                                                           
+    Q52        INR52      Do you want to stop smoking now?                                                                                                 
+                          .   Missing                                                                                                      4          .    
+                          1   I have never smoked                                                                                      1,453        88.7%  
+                          2   I do not smoke now                                                                                          40         2.6%  
+                          3   Yes                                                                                                        122         7.6%  
+                          4   No                                                                                                          18         1.1%  
+                                                                                                                                                           
+    Q53        INR53      During the past year, have you ever tried to stop smoking ?                                                                      
+                                                               GYTSSEARO2004 India All Schools                                                              9
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          .   Missing                                                                                                      7          .    
+                          1   I have never smoked                                                                                      1,491        91.0%  
+                          2   I did not smoke during the past year                                                                        50         3.2%  
+                          3   Yes                                                                                                         66         4.3%  
+                          4   No                                                                                                          23         1.5%  
+                                                                                                                                                           
+    Q54        INR54      How long ago did you stop smoking?                                                                                               
+                          .   Missing                                                                                                     12          .    
+                          1   I have never smoked                                                                                      1,519        93.3%  
+                          2   I have not stopped smoking                                                                                  34         2.2%  
+                          3   Less than 4 months                                                                                          32         2.0%  
+                          4   4-11 months                                                                                                 15         0.9%  
+                          5   One year                                                                                                    10         0.6%  
+                          6   2 years                                                                                                      5         0.3%  
+                          7   3 years or longer                                                                                           10         0.6%  
+                                                                                                                                                           
+    Q55        INR55      What was the main reason you decided to stop smoking? (SELECT ONE ONLY)                                                          
+                          .   Missing                                                                                                      3          .    
+                          1   I have never smoked                                                                                      1,516        92.6%  
+                          2   I have not stopped smoking                                                                                  21         1.3%  
+                          3   To improve my health                                                                                        61         3.8%  
+                          4   To save money                                                                                               20         1.3%  
+                          5   Because my family does not like it                                                                           9         0.5%  
+                          6   Because my friends don't like it                                                                             3         0.2%  
+                          7   Other                                                                                                        4         0.2%  
+                                                                                                                                                           
+    Q56        INR56      Do you think you would be able to stop smoking if you wanted to?                                                                 
+                          .   Missing                                                                                                      3          .    
+                          1   I have never smoked                                                                                      1,503        91.7%  
+                          2   I have already stopped smoking                                                                              47         3.0%  
+                          3   Yes, I would be able to stop                                                                                73         4.5%  
+                          4   No, I would not be able to stop                                                                             11         0.7%  
+                                                                                                                                                           
+    Q57        INR57      Have you ever received help or advice to help you stop smoking? (SELECT ONLY ONE RESPONSE)                                       
+                          .   Missing                                                                                                     11          .    
+                          1   I have never smoked                                                                                      1,502        92.3%  
+                          2   Yes, from a program or health personnel                                                                     42         2.6%  
+                          3   Yes, from a friend                                                                                          39         2.4%  
+                          4   Yes, from a family member                                                                                   29         1.8%  
+                          5   Yes, from both programs or health personnel and from friends or family members                               6         0.4%  
+                          6   No, I did not receive any help from anyone.                                                                  8         0.5%  
+                                                                                                                                                           
+    Q58        CR41       During the past 30 days (one month), how many anti-smoking media messages (e.g., in television, radio,                           
+                          hoardings, posters, newspapers, magazines, movies) have you seen?                                                                
+                          .   Missing                                                                                                     18          .    
+                          1   A lot                                                                                                    1,083        66.3%  
+                          2   A few                                                                                                      352        22.0%  
+                          3   None                                                                                                       184        11.7%  
+                                                                                                                                                           
+    Q59        INR59      When you go to sports events, fairs, concerts, poojas, weekly markets, community events, or social                               
+                          gatherings, how often do you see anti-smoking messages?                                                                          
+                          .   Missing                                                                                                     11          .    
+                          1   I never go to sports events, fairs, concerts, community events, or social gatherings                       270        17.1%  
+                          2   A lot                                                                                                      827        50.7%  
+                          3   Sometimes                                                                                                  399        24.1%  
+                                                               GYTSSEARO2004 India All Schools                                                             10
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          4   Never                                                                                                      130         8.2%  
+                                                                                                                                                           
+    Q60        CR43       When you watch TV, videos, or movies, how often do you see actors smoking?                                                       
+                          .   Missing                                                                                                     34          .    
+                          1   I never watch TV, videos, or movies                                                                        300        19.3%  
+                          2   A lot                                                                                                      902        55.4%  
+                          3   Sometimes                                                                                                  330        20.3%  
+                          4   Never                                                                                                       71         5.1%  
+                                                                                                                                                           
+    Q61        INR61      When you watch TV, videos, or movies, how often do you see actors chewing tobacco?                                               
+                          .   Missing                                                                                                      3          .    
+                          1   I never watch TV, videos, or movies                                                                        312        19.5%  
+                          2   A lot                                                                                                      756        45.6%  
+                          3   Sometimes                                                                                                  402        24.4%  
+                          4   Never                                                                                                      164        10.4%  
+                                                                                                                                                           
+    Q62        INR62      Do you have something (t-shirt, pen, backpack, shopping bag, cap etc.) with a cigarette brand name or                            
+                          cigarette symbol on it?                                                                                                          
+                          .   Missing                                                                                                     34          .    
+                          1   Yes                                                                                                        229        14.4%  
+                          2   No                                                                                                       1,374        85.6%  
+                                                                                                                                                           
+    Q63        INR63      Do you have something (t-shirt, pen, backpack, shopping bag, cap etc.) with a bidi or pan masala brand                           
+                          name or symbol on it?                                                                                                            
+                          .   Missing                                                                                                     38          .    
+                          1   Yes                                                                                                        448        27.3%  
+                          2   No                                                                                                       1,151        72.7%  
+                                                                                                                                                           
+    Q64        CR45       During the past 30 days (one month), when you watched sports events or other programs on TV, how often                           
+                          did you see cigarette brand names?                                                                                               
+                          .   Missing                                                                                                     13          .    
+                          1   I never watch TV                                                                                           334        21.2%  
+                          2   A lot                                                                                                      481        29.7%  
+                          3   Sometimes                                                                                                  625        37.6%  
+                          4   Never                                                                                                      184        11.5%  
+                                                                                                                                                           
+    Q65        INR65      During the past 30 days (one month), when you watched sports events or other programs on TV, how often                           
+                          did you see gutka or pan masala brand names?                                                                                     
+                          .   Missing                                                                                                      5          .    
+                          1   I never watch TV                                                                                           333        20.7%  
+                          2   A lot                                                                                                      718        43.7%  
+                          3   Sometimes                                                                                                  416        25.5%  
+                          4   Never                                                                                                      165        10.1%  
+                                                                                                                                                           
+    Q66        INR66      During the past 30 days (one month), how many advertisements for cigarettes have you seen on hoardings                           
+                          , buses, bus-stops, trains, railway platforms, shops or as writings on walls?                                                    
+                          .   Missing                                                                                                     29          .    
+                          1   A lot                                                                                                      984        60.5%  
+                          2   A few                                                                                                      447        28.4%  
+                          3   None                                                                                                       177        11.2%  
+                                                                                                                                                           
+    Q67        INR67      During the past 30 days (one month), how many advertisements for bidis have you seen on hoardings ,                              
+                          buses, bus-stops, trains, railway platforms, shops or as writings on walls?                                                      
+                          .   Missing                                                                                                     16          .    
+                          1   A lot                                                                                                      984        59.8%  
+                                                               GYTSSEARO2004 India All Schools                                                             11
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          2   A few                                                                                                      471        29.6%  
+                          3   None                                                                                                       166        10.7%  
+                                                                                                                                                           
+    Q68        INR68      During the past 30 days (one month), how many advertisements for gutka or pan masala have you seen on                            
+                          hoardings, buses, bus-stops, taxies, railway platforms, shops or as writings on walls?                                           
+                          .   Missing                                                                                                     15          .    
+                          1   A lot                                                                                                      961        58.2%  
+                          2   A few                                                                                                      491        31.1%  
+                          3   None                                                                                                       170        10.7%  
+                                                                                                                                                           
+    Q69        INR69      During the past 30 days (one month), how many advertisements, quizes, contests or promotions for                                 
+                          cigarettes have you seen in newspapers or magazines?                                                                             
+                          .   Missing                                                                                                     41          .    
+                          1   A lot                                                                                                      766        46.9%  
+                          2   A few                                                                                                      559        35.9%  
+                          3   None                                                                                                       271        17.2%  
+                                                                                                                                                           
+    Q70        INR70      During the past 30 days (one month), how many advertisements, quizes, contests, promotions for gutka                             
+                          or pan masala have you seen in newspapers or magazines?                                                                          
+                          .   Missing                                                                                                     24          .    
+                          1   A lot                                                                                                      774        46.8%  
+                          2   A few                                                                                                      548        35.3%  
+                          3   None                                                                                                       291        17.9%  
+                                                                                                                                                           
+    Q71        INR71      When you go to sports events, fairs, concerts, community events, poojas, or weekly market how often do                           
+                          you see advertisements for cigarettes?                                                                                           
+                          .   Missing                                                                                                     21          .    
+                          1   I never attend sports events, fairs, concerts, community events, poojas, or weekly market                  283        17.8%  
+                          2   A lot                                                                                                      754        46.5%  
+                          3   Sometimes                                                                                                  451        28.0%  
+                          4   Never                                                                                                      128         7.7%  
+                                                                                                                                                           
+    Q72        INR72      When you go to sports events, fairs, concerts, community events, poojas, or weekly market how often do                           
+                          you see advertisements for bidis?                                                                                                
+                          .   Missing                                                                                                     35          .    
+                          1   I never attend sports events, fairs, concerts, community events, poojas, or weekly market                  284        17.7%  
+                          2   A lot                                                                                                      674        41.7%  
+                          3   Sometimes                                                                                                  475        30.2%  
+                          4   Never                                                                                                      169        10.4%  
+                                                                                                                                                           
+    Q73        INR73      When you go to sports events, fairs, concerts, community events, poojas, or weekly market how often do                           
+                          you see advertisements for gutka or pan masala?                                                                                  
+                          .   Missing                                                                                                     10          .    
+                          1   I never attend sports events, fairs, concerts, community events, poojas, or weekly market                  288        17.8%  
+                          2   A lot                                                                                                      746        45.8%  
+                          3   Sometimes                                                                                                  467        28.9%  
+                          4   Never                                                                                                      126         7.5%  
+                                                                                                                                                           
+    Q74        INR74      Has a cigarette company person or cigarette vendor  ever offered you a free cigarette?                                           
+                          .   Missing                                                                                                     44          .    
+                          1   Yes                                                                                                        189        11.8%  
+                          2   No                                                                                                       1,404        88.2%  
+                                                                                                                                                           
+    Q75        INR75      Has a bidi company person or bidi vendor ever offered you a free bidi?                                                           
+                          .   Missing                                                                                                     38          .    
+                                                               GYTSSEARO2004 India All Schools                                                             12
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          1   Yes                                                                                                        185        11.6%  
+                          2   No                                                                                                       1,414        88.4%  
+                                                                                                                                                           
+    Q76        INR76      Has a (gutka or pan masala company person or vendor ever offered you a free sample?                                              
+                          .   Missing                                                                                                     30          .    
+                          1   Yes                                                                                                        250        15.1%  
+                          2   No                                                                                                       1,357        84.9%  
+                                                                                                                                                           
+    Q77        INR77      During the last school year, were you taught in any of your classes about the dangers of smoking or                              
+                          chewing of tobacco?                                                                                                              
+                          .   Missing                                                                                                     26          .    
+                          1   Yes                                                                                                      1,109        68.0%  
+                          2   No                                                                                                         384        24.5%  
+                          3   Not sure                                                                                                   118         7.4%  
+                                                                                                                                                           
+    Q78        INR78      During the last school year, did you discuss in any of your classes the reasons why people your age                              
+                          smoke or chew tobacco?                                                                                                           
+                          .   Missing                                                                                                     44          .    
+                          1   Yes                                                                                                        910        56.4%  
+                          2   No                                                                                                         562        36.0%  
+                          3   Not sure                                                                                                   121         7.6%  
+                                                                                                                                                           
+    Q79        INR79      During the last school year, were you taught in any of your classes about the effects of smoking or                              
+                          chewing tobacco, for example it makes your teeth yellow, causes wrinkles, or makes you smell bad?                                
+                          .   Missing                                                                                                     13          .    
+                          1   Yes                                                                                                      1,136        69.1%  
+                          2   No                                                                                                         385        24.5%  
+                          3   Not sure                                                                                                   103         6.5%  
+                                                                                                                                                           
+    Q80        INR80      How long ago did you last discuss smoking or chewing of tobacco and health as part of a lesson?                                  
+                          .   Missing                                                                                                     35          .    
+                          1   Never                                                                                                      611        38.8%  
+                          2   This term                                                                                                  508        32.1%  
+                          3   Last term                                                                                                  291        17.1%  
+                          4   2 terms ago                                                                                                 58         3.5%  
+                          5   3 terms ago                                                                                                 45         2.8%  
+                          6   More than a year ago                                                                                        89         5.8%  
+                                                                                                                                                           
+    Q81        CR54       How old are you (completed age)?                                                                                                 
+                          .   Missing                                                                                                     50          .    
+                          1   11 years old or younger                                                                                    110         6.7%  
+                          2   12 years old                                                                                               137        10.1%  
+                          3   13 years old                                                                                               383        27.5%  
+                          4   14 years old                                                                                               439        27.8%  
+                          5   15 years old                                                                                               397        21.6%  
+                          6   16 years old                                                                                                96         5.2%  
+                          7   17 years old or older                                                                                       25         1.2%  
+                                                                                                                                                           
+    Q82        CR55       What is your sex?                                                                                                                
+                          .   Missing                                                                                                     64          .    
+                          1   Male                                                                                                       957        57.7%  
+                          2   Female                                                                                                     616        42.3%  
+                                                                                                                                                           
+    Q83        INR83      In what standard are you?                                                                                                        
+                          .   Missing                                                                                                     47          .    
+                                                               GYTSSEARO2004 India All Schools                                                             13
+                                                     Region 1 (Gujarat (incl Amedabad)) -- Web Codebook
+
+  Original    Analysis                                                                                                               Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                    Frequency     Percent
+
+                          1   I am in 7th                                                                                                91          5.0%  
+                          2   I am in 8th                                                                                               485         37.9%  
+                          3   I am in 9th                                                                                               465         29.3%  
+                          4   I am in 10th                                                                                              549         27.9%  
+                                                                                                                                                           

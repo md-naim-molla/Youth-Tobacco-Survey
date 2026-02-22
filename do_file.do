@@ -1,0 +1,29 @@
+
+* for 2013
+rename CR7  q1
+rename CR10 q2
+rename CR14 q3
+rename CR5  q4
+rename CR9  q5
+rename CR13 q6
+rename CR39 q7
+rename CR40 q8
+rename CR1  q9
+rename CR2  q10
+rename CR19 q11
+rename CR20 q12
+rename CR21 q13
+rename CR22 q14
+rename CR23 q15
+rename CR24 q16
+rename CR25 q17
+rename CR30 q18
+rename CR31 q19
+rename CR32 q20
+rename CR33 q21
+rename CR34 q22
+rename CR35 q23
+rename CR36 q24
+rename CR37 q25
+rename CR38 q26
+

@@ -1,0 +1,532 @@
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             1
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+     Q1         MMR1      Have you ever tried or experimented with hseyleik smoking, even one or two puffs?                                               
+                          .   Missing                                                                                                   303          .    
+                          1   Yes                                                                                                     1,268        22.0%  
+                          2   No                                                                                                      4,529        78.0%  
+                                                                                                                                                          
+     Q2         MMR2      How old were you when you first tried a hseyleik?                                                                               
+                          .   Missing                                                                                                   284          .    
+                          1   I have never smoked hseyleik.                                                                           4,760        81.8%  
+                          2   7 years old or younger                                                                                     99         1.7%  
+                          3   8 or 9 years old                                                                                          108         1.8%  
+                          4   10 or 11 years old                                                                                        110         1.9%  
+                          5   12 or 13 years old                                                                                        252         4.3%  
+                          6   14 or 15 years old                                                                                        349         6.1%  
+                          7   16 years old or older                                                                                     138         2.4%  
+                                                                                                                                                          
+     Q3         MMR3      During the past month, on how many days did you smoke hseyleik?                                                                 
+                          .   Missing                                                                                                   400          .    
+                          1   0 days                                                                                                  5,268        92.4%  
+                          2   1 or 2 days                                                                                               281         4.9%  
+                          3   3 to 5 days                                                                                                58         1.0%  
+                          4   6 to 9 days                                                                                                39         0.7%  
+                          5   10 to 19 days                                                                                              24         0.4%  
+                          6   20 to 29 days                                                                                              11         0.2%  
+                          7   the whole month                                                                                            19         0.3%  
+                                                                                                                                                          
+     Q4         MMR4      During the past month, on the days you smoked, how many hseyleik did you usually smoke?                                         
+                          .   Missing                                                                                                   302          .    
+                          1   I did not smoke hseyleik during the past month                                                          5,289        91.2%  
+                          2   Less than 1 hseyleik per day                                                                              309         5.3%  
+                          3   1 hseyleik per day                                                                                        135         2.3%  
+                          4   2 to 5 hseyleik per day                                                                                    47         0.8%  
+                          5   6 to 10 hseyleik per day                                                                                    9         0.2%  
+                          6   11 to 20 hseyleik per day                                                                                   3         0.1%  
+                          7   More than 20 hseyleik per day                                                                               6         0.1%  
+                                                                                                                                                          
+     Q5         MMR5      Do you usually smoke cigarettes?                                                                                                
+                          .   Missing                                                                                                    58          .    
+                          1   Yes                                                                                                       354         5.9%  
+                          2   No                                                                                                      5,688        94.1%  
+                                                                                                                                                          
+     Q6         MMR6      During the past month how many times did you smoke cigarettes?                                                                  
+                          .   Missing                                                                                                    61          .    
+                          1   I had not smoked any cigarettes.                                                                        5,431        89.9%  
+                          2   Not even once in a week.                                                                                  315         5.2%  
+                          3   At least once in a week although not daily.                                                               263         4.4%  
+                          4   Daily                                                                                                      30         0.5%  
+                                                                                                                                                          
+     Q7         MMR7      Do you usually smoke cheroots?                                                                                                  
+                          .   Missing                                                                                                    42          .    
+                          1   Yes                                                                                                       428         7.0%  
+                          2   No                                                                                                      5,630        93.0%  
+                                                                                                                                                          
+     Q8         MMR8      During the past month how many times did you smoke cheroots?                                                                    
+                          .   Missing                                                                                                    47          .    
+                          1   I had not smoked any cheroots.                                                                          5,002        82.7%  
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             2
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+                          2   Not even once in a week.                                                                                  820        13.5%  
+                          3   At least once in a week although not daily.                                                               202         3.4%  
+                          4   Daily                                                                                                      29         0.5%  
+                                                                                                                                                          
+    Q9         MMR9       Have you ever used betel with Myanmar tobacco/betel with other tobacco or chewed raw tobacco?                                   
+                          .   Missing                                                                                                    86          .    
+                          1   Yes                                                                                                     1,357        22.7%  
+                          2   No                                                                                                      4,657        77.3%  
+                                                                                                                                                          
+    Q10        MMR10      During the past month how many times did you used betel with Myanmar   tobacco/betel with other                                 
+                          tobacco or chewed raw tobacco?                                                                                                  
+                          .   Missing                                                                                                    30          .    
+                          1   I had not used or chewed tobacco.                                                                       5,006        82.4%  
+                          2   Not even once in a week.                                                                                  416         6.8%  
+                          3   At least once in a week although not daily.                                                               569         9.5%  
+                          4   Daily                                                                                                      79         1.3%  
+                                                                                                                                                          
+    Q11        MMR11      Do you ever have a hseyleik or feel like having a hseyleik first thing in the morning?                                          
+                          .   Missing                                                                                                    31          .    
+                          1   I have never smoked hseyleik.                                                                           4,820        79.4%  
+                          2   I no longer smoke hseyleik.                                                                               414         6.8%  
+                          3   No, I don’t have or feel like having a hseyleik first thing in the morning.                               717        11.9%  
+                          4   Yes, I sometimes have or feel like having a hseyleik first thing in the morning.                          106         1.7%  
+                          5   Yes, I always have or feel like having a hseyleik first thing in the morning.                              12         0.2%  
+                                                                                                                                                          
+    Q12        MMR12      During the past month, how did you usually get your hseyleik?  (SELECT ONLY ONE RESPONSE)                                       
+                          .   Missing                                                                                                    28          .    
+                          1   I did not smoke hseyleik during the past one month.                                                     5,430        89.4%  
+                          2   I bought them in a store, shop or from a street vendor.                                                   278         4.6%  
+                          3   I gave someone else money to buy them for me.                                                              60         1.0%  
+                          4   I asked someone else to give them to me.                                                                   89         1.5%  
+                          5   I stole them.                                                                                              41         0.7%  
+                          6   A friend gave them to me.                                                                                 174         2.9%  
+                                                                                                                                                          
+    Q13        MMR13      During the past month, what brand of hseyleik did you usually smoke?  (SELECT ONLY ONE RESPONSE)                                
+                          .   Missing                                                                                                    15          .    
+                          1   I did not smoke hseyleik during the past month.                                                         5,524        90.7%  
+                          2   No usual brand.                                                                                           195         3.2%  
+                          3   Three lion cheroots.                                                                                       19         0.3%  
+                          4   London cigarettes.                                                                                        161         2.6%  
+                          5   Vegas cigarettes.                                                                                         104         1.7%  
+                          6   Duya cigarettes                                                                                            32         0.5%  
+                          7   Golden Triangle cigarettes                                                                                 18         0.3%  
+                          8   Other cheroots/cigarettes.                                                                                 32         0.6%  
+                                                                                                                                                          
+    Q14        MMR14      How much do you usually pay for a pack of 20 cigarettes?                                                                        
+                          .   Missing                                                                                                    27          .    
+                          1   I don’t smoke cigarettes.                                                                               4,917        80.9%  
+                          2   I don’t buy cigarettes, or I don’t buy them in packs.                                                     847        13.9%  
+                          3   Less than 100 kyats.                                                                                       97         1.6%  
+                          4   100 to 199 kyats.                                                                                          31         0.5%  
+                          5   200 to 299 kyats                                                                                           53         0.9%  
+                          6   300 to 399 kyats                                                                                           43         0.7%  
+                          7   400 kyats and above.                                                                                       85         1.4%  
+                                                                                                                                                          
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             3
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+    Q15        MMR15      During the past month how much do you think you spent on hseyleik and betel with tobacco?                                       
+                          .   Missing                                                                                                    42          .    
+                          1   I don’t smoke hseyleik nor use betel with tobacco.                                                      4,705        77.6%  
+                          2   I don’t buy my hseyleik or betel with tobacco.                                                            829        13.7%  
+                          3   Less than 100 kyats.                                                                                      368         6.1%  
+                          4   100 to 199 kyats.                                                                                          54         0.9%  
+                          5   200 to 299 kyats                                                                                           33         0.5%  
+                          6   300 to 399 kyats                                                                                           14         0.2%  
+                          7   400 kyats and above.                                                                                       55         0.9%  
+                                                                                                                                                          
+    Q16        MMR16      Where do you get your pocket money from?                                                                                        
+                          .   Missing                                                                                                    30          .    
+                          1   I do not get any pocket money.                                                                            680        11.2%  
+                          2   From my labour.                                                                                           644        10.7%  
+                          3   From my parents (or) relatives.                                                                         4,705        77.5%  
+                          4   Others.                                                                                                    41         0.7%  
+                                                                                                                                                          
+    Q17        MMR17      During the past month did anyone ever refuse to sell you hseyleik or betel because of your age?                                 
+                          .   Missing                                                                                                    45          .    
+                          1   I did not try to buy hseyleik or betel during the past month.                                           3,406        56.3%  
+                          2   Yes, someone refused to sell them to me because of my age                                                 932        15.4%  
+                          3   No, my age did not keep me from buying tobacco.                                                         1,717        28.2%  
+                                                                                                                                                          
+    Q18        MMR18      Is it easy or difficult to buy hseyleik?                                                                                        
+                          .   Missing                                                                                                    70          .    
+                          1   Very difficult.                                                                                         1,037        17.2%  
+                          2   Quite difficult.                                                                                          419         7.0%  
+                          3   Easy.                                                                                                   1,021        16.9%  
+                          4   Very easy.                                                                                                287         4.7%  
+                          5   I had never buy hseyleik or betel.                                                                      3,266        54.1%  
+                                                                                                                                                          
+    Q19        MMR19      Do your parents or guardians smoke?                                                                                             
+                          .   Missing                                                                                                    40          .    
+                          1   None                                                                                                    3,211        53.0%  
+                          2   Both                                                                                                      474         7.7%  
+                          3   Father or male guardian only                                                                            2,193        36.2%  
+                          4   Mother or female guardian only                                                                            182         3.1%  
+                                                                                                                                                          
+    Q20        MMR20      If one of your best friends offered you a hseyleik, would you smoke it?                                                         
+                          .   Missing                                                                                                    38          .    
+                          1   Definitely not                                                                                          5,161        85.1%  
+                          2   Probably not                                                                                              552         9.1%  
+                          3   Probably yes                                                                                              279         4.6%  
+                          4   Definitely yes                                                                                             70         1.1%  
+                                                                                                                                                          
+    Q21        CR16       Has anyone in your family discussed the harmful effects of smoking with you?                                                    
+                          .   Missing                                                                                                    72          .    
+                          1   Yes                                                                                                     5,199        86.3%  
+                          2   No                                                                                                        829        13.7%  
+                                                                                                                                                          
+    Q22        MMR22      How many students in your class smoke?                                                                                          
+                          .   Missing                                                                                                    22          .    
+                          1   Majority of them.                                                                                         238         3.9%  
+                          2   About half of them.                                                                                       159         2.6%  
+                          3   Some of them.                                                                                           2,508        41.5%  
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             4
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+                          4   None of them.                                                                                           3,173        52.0%  
+                                                                                                                                                          
+    Q23        MMR23      Do you think boys who smoke hseyleik have more or less friends?                                                                 
+                          .   Missing                                                                                                    94          .    
+                          1   More friends                                                                                            2,502        41.7%  
+                          2   Less friends                                                                                            2,096        34.9%  
+                          3   No difference from non-smokers                                                                          1,408        23.4%  
+                                                                                                                                                          
+    Q24        MMR24      Do you think girls who smoke hseyleik have more or less friends?                                                                
+                          .   Missing                                                                                                    70          .    
+                          1   More friends                                                                                              609        10.1%  
+                          2   Less friends                                                                                            3,884        64.5%  
+                          3   No difference from non-smokers                                                                          1,537        25.5%  
+                                                                                                                                                          
+    Q25        MMR25      Do you think that smoking hseyleik help people feel more comfortable at celebrations, parties, or in                            
+                          other social gatherings?                                                                                                        
+                          .   Missing                                                                                                    45          .    
+                          1   Yes                                                                                                       721        12.0%  
+                          2   No                                                                                                      5,334        88.0%  
+                                                                                                                                                          
+    Q26        MMR26      Do you think smoking makes boys look more attractive?                                                                           
+                          .   Missing                                                                                                    59          .    
+                          1   Yes                                                                                                     2,032        33.7%  
+                          2   No                                                                                                      4,009        66.3%  
+                                                                                                                                                          
+    Q27        MMR27      Do you think smoking makes girls look more attractive?                                                                          
+                          .   Missing                                                                                                    80          .    
+                          1   Yes                                                                                                     1,034        17.2%  
+                          2   No                                                                                                      4,986        82.8%  
+                                                                                                                                                          
+    Q28        MMR28      Do you think that smoking makes you gain or lose weight?                                                                        
+                          .   Missing                                                                                                    26          .    
+                          1   Gain weight                                                                                               162         2.6%  
+                          2   Lose weight                                                                                             4,992        82.2%  
+                          3   No difference                                                                                             920        15.1%  
+                                                                                                                                                          
+    Q29        MMR29      Do you think smoking is harmful to your health?                                                                                 
+                          .   Missing                                                                                                    47          .    
+                          1   Definitely not                                                                                            153         2.5%  
+                          2   Probably not                                                                                              155         2.5%  
+                          3   Probably yes                                                                                            1,696        28.0%  
+                          4   Definitely yes                                                                                          4,049        66.9%  
+                                                                                                                                                          
+    Q30        MMR30      Do any of your closest friends smoke?                                                                                           
+                          .   Missing                                                                                                    45          .    
+                          1   None of them                                                                                            3,368        55.6%  
+                          2   Some of them                                                                                            2,433        40.2%  
+                          3   Most of them                                                                                              198         3.3%  
+                          4   All of them                                                                                                56         0.9%  
+                                                                                                                                                          
+    Q31        MMR31      When you see a boy or a man smoking, what do you think of him?  (SELECT ONLY ONE RESPONSE)                                      
+                          .   Missing                                                                                                    25          .    
+                          1   Lacks confidence                                                                                        2,766        45.5%  
+                          2   Stupid/Foolish                                                                                          1,738        28.6%  
+                          3   Loser                                                                                                     914        15.1%  
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             5
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+                          4   Successful                                                                                                 27         0.4%  
+                          5   Intelligent                                                                                                15         0.3%  
+                          6   Macho                                                                                                      60         1.0%  
+                          7   No difference                                                                                             555         9.1%  
+                                                                                                                                                          
+    Q32        MMR32      When you see a woman smoking, what do you think of her?  (SELECT ONLY ONE RESPONSE)                                             
+                          .   Missing                                                                                                    34          .    
+                          1   Lacks confidence                                                                                        2,604        42.9%  
+                          2   Stupid/ foolish                                                                                         1,977        32.6%  
+                          3   Loser                                                                                                     928        15.3%  
+                          4   Successful                                                                                                 33         0.5%  
+                          5   Intelligent                                                                                                18         0.3%  
+                          6   Stylish                                                                                                    86         1.4%  
+                          7   No difference                                                                                             420         6.9%  
+                                                                                                                                                          
+    Q33        MMR33      Do you think it is safe to smoke for only a year or two as long as you quit after that?                                         
+                          .   Missing                                                                                                    70          .    
+                          1   I think it is safe.                                                                                       920        15.3%  
+                          2   I think it is not safe.                                                                                 5,110        84.7%  
+                                                                                                                                                          
+    Q34        MMR34      Where do you usually smoke?  (SELECT ONLY ONE RESPONSE)                                                                         
+                          .   Missing                                                                                                    18          .    
+                          1   I have never smoked.                                                                                    5,198        85.5%  
+                          2   At home                                                                                                   192         3.2%  
+                          3   At social gatherings                                                                                      316         5.2%  
+                          4   Within school compound during school hours                                                                 16         0.3%  
+                          5   Outside school compound during school hours                                                                19         0.3%  
+                          6   In public spaces (e.g. streets, tea shops, parks, markets)                                                267         4.4%  
+                          7   Others                                                                                                     74         1.2%  
+                                                                                                                                                          
+    Q35        MMR35      Do you think the smoke from other people’s hseyleik is harmful to you?                                                          
+                          .   Missing                                                                                                    44          .    
+                          1   Definitely not                                                                                            190         3.1%  
+                          2   Probably not                                                                                              224         3.7%  
+                          3   Probably yes                                                                                            2,853        47.1%  
+                          4   Definitely yes                                                                                          2,789        46.1%  
+                                                                                                                                                          
+    Q36        MMR36      How often did your family members or other persons smoke at your home?                                                          
+                          .   Missing                                                                                                    53          .    
+                          1   I have not seen anyone smoked at home.                                                                  1,796        29.7%  
+                          2   I have seen them smoked almost everyday.                                                                1,141        18.8%  
+                          3   I have seen them smoked sometimes.                                                                      2,279        37.8%  
+                          4   They never smoke.                                                                                         831        13.7%  
+                                                                                                                                                          
+    Q37        MMR37      How often have people smoked in your presence, in places other than in your home?                                               
+                          .   Missing                                                                                                    25          .    
+                          1   I have not seen anyone smoked in my presence.                                                           1,215        20.0%  
+                          2   I have seen them smoked almost everyday.                                                                1,379        22.7%  
+                          3   I have seen them smoked sometimes.                                                                      3,169        52.2%  
+                          4   They never smoke.                                                                                         312         5.1%  
+                                                                                                                                                          
+    Q38        MMR38      If you are currently smoking, have you thought of quitting hseyleik in the near future?                                         
+                          .   Missing                                                                                                    41          .    
+                          1   I have never smoked.                                                                                    4,878        80.4%  
+                          2   I do not smoke now.                                                                                       725        12.0%  
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             6
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+                          3   I have not thought of quitting hseyleik.                                                                   77         1.3%  
+                          4   I have thought of quitting hseyleik in the near future.                                                   379         6.3%  
+                                                                                                                                                          
+    Q39        MMR39      Do you want to stop smoking now?                                                                                                
+                          .   Missing                                                                                                    62          .    
+                          1   I have never smoked.                                                                                    4,865        80.5%  
+                          2   I do not smoke now.                                                                                       677        11.3%  
+                          3   Yes                                                                                                       410         6.8%  
+                          4   No                                                                                                         86         1.4%  
+                                                                                                                                                          
+    Q40        MMR40      During the past year, how many times have you tried to stop smoking?                                                            
+                          .   Missing                                                                                                    43          .    
+                          1   I have never smoked.                                                                                    5,054        83.4%  
+                          2   I did not smoke during the past year.                                                                     620        10.3%  
+                          3   I have never tried to stop smoking.                                                                        82         1.4%  
+                          4   I had tried once.                                                                                         147         2.4%  
+                          5   I had tried more than once.                                                                               154         2.6%  
+                                                                                                                                                          
+    Q41        CR37       How long ago did you stop smoking?                                                                                              
+                          .   Missing                                                                                                    39          .    
+                          1   I have never smoked cigarettes                                                                          5,271        86.9%  
+                          2   I have not stopped smoking                                                                                222         3.7%  
+                          3   1-3 months                                                                                                194         3.2%  
+                          4   4-11 months                                                                                                56         0.9%  
+                          5   One year                                                                                                  103         1.7%  
+                          6   2 years                                                                                                    61         1.0%  
+                          7   3 years or longer                                                                                         154         2.5%  
+                                                                                                                                                          
+    Q42        MMR42      What was the main reason you decided to stop smoking?  (SELECT ONLY ONE RESPONSE)                                               
+                          .   Missing                                                                                                    47          .    
+                          1   I have never smoked                                                                                     4,953        81.8%  
+                          2   I have not stopped smoking                                                                                 98         1.6%  
+                          3   To improve my health                                                                                      488         8.1%  
+                          4   To save money                                                                                              75         1.2%  
+                          5   Because my family does not like it                                                                        359         6.0%  
+                          6   Because my friends don’t like it                                                                           51         0.9%  
+                          7   Other                                                                                                      29         0.5%  
+                                                                                                                                                          
+    Q43        MMR43      Do you think you would be able to stop smoking if you wanted to?                                                                
+                          .   Missing                                                                                                    23          .    
+                          1   I have never smoked                                                                                     5,039        82.9%  
+                          2   I have already stopped smoking                                                                            494         8.2%  
+                          3   Yes                                                                                                       458         7.5%  
+                          4   No                                                                                                         86         1.4%  
+                                                                                                                                                          
+    Q44        MMR44      Have you ever received help or advice to help you stop smoking?  (SELECT ONLY ONE RESPONSE)                                     
+                          .   Missing                                                                                                    26          .    
+                          1   I have never smoked                                                                                     4,860        80.0%  
+                          2   Yes, from health personnel                                                                                354         5.8%  
+                          3   Yes, from a friend                                                                                        232         3.8%  
+                          4   Yes, from a family member                                                                                 232         3.8%  
+                          5   Yes, from health personnel and from friends or family members                                             146         2.4%  
+                          6   No, I have never received any advice.                                                                     250         4.1%  
+                                                                                                                                                          
+    Q45        MMR45      During the past month, how many anti-smoking media messages have you seen on television?                                        
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             7
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+                          .   Missing                                                                                                    54          .    
+                          1   I did not watch television.                                                                               890        14.8%  
+                          2   Many times.                                                                                             3,028        50.1%  
+                          3   A few                                                                                                   1,940        32.0%  
+                          4   None                                                                                                      188         3.1%  
+                                                                                                                                                          
+    Q46        MMR46      During the past month, how many anti-smoking media messages have you heard from radio?                                          
+                          .   Missing                                                                                                    25          .    
+                          1   I did not listen to radio.                                                                              2,059        33.9%  
+                          2   Many times.                                                                                             1,999        32.9%  
+                          3   A few                                                                                                   1,849        30.4%  
+                          4   None                                                                                                      168         2.8%  
+                                                                                                                                                          
+    Q47        MMR47      During the past month, how many anti-smoking media messages have you seen on bill-boards?                                       
+                          .   Missing                                                                                                    72          .    
+                          1   Many times                                                                                              2,488        41.3%  
+                          2   A few                                                                                                   2,529        41.9%  
+                          3   None                                                                                                    1,011        16.7%  
+                                                                                                                                                          
+    Q48        MMR48      When you go to sports events, fairs or community events how often do you see anti-smoking messages?                             
+                          .   Missing                                                                                                    49          .    
+                          1   I never go to those events                                                                              1,733        28.6%  
+                          2   Plenty                                                                                                  1,021        16.9%  
+                          3   Sometimes                                                                                               2,435        40.2%  
+                          4   Never                                                                                                     862        14.3%  
+                                                                                                                                                          
+    Q49        MMR49      When you watch TV, videos, or movies, how often do you see actors and actresses smoking?                                        
+                          .   Missing                                                                                                    21          .    
+                          1   I never watch TV, videos, or movies                                                                       575         9.5%  
+                          2   Almost always                                                                                           1,395        22.9%  
+                          3   Often                                                                                                   3,609        59.4%  
+                          4   Never                                                                                                     500         8.1%  
+                                                                                                                                                          
+    Q50        MMR50      Do you have something (T-shirt, pen, purse etc.) with a cigarette or cheroot brand logo on it?                                  
+                          .   Missing                                                                                                    93          .    
+                          1   Yes                                                                                                       834        13.9%  
+                          2   No                                                                                                      5,173        86.1%  
+                                                                                                                                                          
+    Q51        MMR51      During the past month when you watched sports events or other programs on TV how often did you see                              
+                          cigarette or cheroot brand names?                                                                                               
+                          .   Missing                                                                                                    64          .    
+                          1   I never watch TV                                                                                          933        15.6%  
+                          2   Almost always                                                                                             775        12.8%  
+                          3   Often                                                                                                   2,480        41.0%  
+                          4   Never                                                                                                   1,848        30.6%  
+                                                                                                                                                          
+    Q52        MMR52      During the past month how many advertisements for cigarettes or cheroots have you seen on billboards                            
+                          at the place you live in?                                                                                                       
+                          .   Missing                                                                                                    55          .    
+                          1   Often                                                                                                   1,825        30.2%  
+                          2   Sometimes                                                                                               2,490        41.1%  
+                          3   None                                                                                                    1,730        28.7%  
+                                                                                                                                                          
+    Q53        MMR53      During the past month how many advertisements or promotions for cheroots/ cigarettes have you seen in                           
+                          newspaper or magazines?                                                                                                         
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             8
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+                          .   Missing                                                                                                    82          .    
+                          1   Often                                                                                                   1,709        28.4%  
+                          2   Sometimes                                                                                               2,569        42.7%  
+                          3   None                                                                                                    1,740        28.9%  
+                                                                                                                                                          
+    Q54        MMR54      When you go to sports events how often do you see advertisements for cigarettes and cheroots?                                   
+                          .   Missing                                                                                                    91          .    
+                          1   I never go to sports events                                                                             2,173        36.1%  
+                          2   A lot                                                                                                     660        11.0%  
+                          3   Sometimes                                                                                               1,666        27.8%  
+                          4   Never                                                                                                   1,510        25.0%  
+                                                                                                                                                          
+    Q55        MMR55      Has a cigarette or cheroot sale promoter ever offered you a free cigarette or cheroot?                                          
+                          .   Missing                                                                                                    83          .    
+                          1   Yes                                                                                                       805        13.4%  
+                          2   No                                                                                                      5,212        86.6%  
+                                                                                                                                                          
+    Q56        CR50       During this school year, were you taught in any of your classes about the dangers of smoking?                                   
+                          .   Missing                                                                                                    51          .    
+                          1   Yes                                                                                                     4,009        66.0%  
+                          2   No                                                                                                      1,081        18.0%  
+                          3   Not sure                                                                                                  959        16.0%  
+                                                                                                                                                          
+    Q57        CR51       During the past school year, did you discuss in any of your classes the reasons why people of your                              
+                          age smoke?                                                                                                                      
+                          .   Missing                                                                                                    81          .    
+                          1   Yes                                                                                                     2,256        37.4%  
+                          2   No                                                                                                      2,927        48.6%  
+                          3   Not sure                                                                                                  836        13.9%  
+                                                                                                                                                          
+    Q58        CR52       During the past school year, were you taught in any of your classes about the effects of smoking like                           
+                          it makes your teeth yellow, causes wrinkles, or makes you smell bad?                                                            
+                          .   Missing                                                                                                    37          .    
+                          1   Yes                                                                                                     3,354        55.2%  
+                          2   No                                                                                                      1,692        28.0%  
+                          3   Not sure                                                                                                1,017        16.8%  
+                                                                                                                                                          
+    Q59        MMR59      During the past year, how often did you see teachers smoking in the classroom?                                                  
+                          .   Missing                                                                                                    56          .    
+                          1   Almost everyday.                                                                                          233         3.9%  
+                          2   Sometimes.                                                                                                828        13.8%  
+                          3   Never.                                                                                                  4,601        75.9%  
+                          4   Do not know                                                                                               382         6.4%  
+                                                                                                                                                          
+    Q60        MMR60      During the past year, how often did you see teachers smoking in the school compound?                                            
+                          .   Missing                                                                                                    75          .    
+                          1   Almost everyday.                                                                                          202         3.4%  
+                          2   Sometimes.                                                                                                817        13.6%  
+                          3   Never.                                                                                                  4,585        75.9%  
+                          4   Do not know                                                                                               421         7.1%  
+                                                                                                                                                          
+    Q61        MMR61      During the past year, how often did you see students smoking in the classrooms?                                                 
+                          .   Missing                                                                                                    31          .    
+                          1   Almost everyday.                                                                                          148         2.5%  
+                          2   Sometimes.                                                                                                690        11.6%  
+                                                              GYTSSEARO2004 Myanmar All Schools                                                             9
+                                                             Region 1 (National) -- Web Codebook
+
+  Original    Analysis                                                                                                              Unweighted    Weighted
+  Question    Variable    Question Code and Label                                                                                   Frequency     Percent
+
+                          3   Never.                                                                                                  4,788        78.5%  
+                          4   Do not know                                                                                               443         7.5%  
+                                                                                                                                                          
+    Q62        MMR62      During the past year, how often did you see students smoking in the school compound?                                            
+                          .   Missing                                                                                                    41          .    
+                          1   Almost everyday.                                                                                          193         3.3%  
+                          2   Sometimes.                                                                                              1,117        18.7%  
+                          3   Never.                                                                                                  4,247        69.7%  
+                          4   Do not know                                                                                               502         8.3%  
+                                                                                                                                                          
+    Q63        MMR63      During the past year, how often did you see other people smoking in the school compound?                                        
+                          .   Missing                                                                                                    53          .    
+                          1   Almost everyday.                                                                                          232         3.8%  
+                          2   Sometimes.                                                                                              1,768        29.3%  
+                          3   Never.                                                                                                  3,478        57.3%  
+                          4   Do not know                                                                                               569         9.6%  
+                                                                                                                                                          
+    Q64        CR54       How old are you? (Completed years)                                                                                              
+                          .   Missing                                                                                                    47          .    
+                          1   11 years old or younger                                                                                    69         1.1%  
+                          2   12 years old                                                                                              178         2.9%  
+                          3   13 years old                                                                                              945        15.3%  
+                          4   14 years old                                                                                            1,575        25.8%  
+                          5   15 years old                                                                                            1,590        26.5%  
+                          6   16 years old                                                                                            1,251        21.0%  
+                          7   17 years old or older                                                                                     445         7.4%  
+                                                                                                                                                          
+    Q65        CR55       What is your sex?                                                                                                               
+                          .   Missing                                                                                                   134          .    
+                          1   Male                                                                                                    2,970        49.8%  
+                          2   Female                                                                                                  2,996        50.2%  
+                                                                                                                                                          
+    Q66        MMR66      In what standard are you?                                                                                                       
+                          .   Missing                                                                                                    74          .    
+                          1   I am in 8th                                                                                             1,765        28.7%  
+                          2   I am in 9th                                                                                             1,964        32.4%  
+                          3   I am in 10th                                                                                            2,297        38.8%  
+                                                                                                                                                          
